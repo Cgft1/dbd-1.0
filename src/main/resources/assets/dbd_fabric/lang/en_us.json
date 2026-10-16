@@ -1,0 +1,10 @@
+{
+  "item.dbd_fabric.killer_blade": "Killer's Blade",
+  "item.dbd_fabric.medkit": "Field Medkit",
+  "block.dbd_fabric.generator": "Trial Generator",
+  "block.dbd_fabric.sacrificial_hook": "Sacrificial Hook",
+  "message.dbd_fabric.generator_progress": "Generator progress: %s%%",
+  "message.dbd_fabric.generator_complete": "Generator repaired! (%s/5)",
+  "message.dbd_fabric.match_started": "Trial started! Repair 5 generators and escape.",
+  "message.dbd_fabric.match_ended": "All generators are repaired! Find the exit."
+}
