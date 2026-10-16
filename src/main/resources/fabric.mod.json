@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "dbd_fabric",
+  "version": "${version}",
+  "name": "Dead by Daylight: The Forest",
+  "description": "A multiplayer Dead by Daylight-inspired prototype for Minecraft 1.20.1.",
+  "authors": ["Prototype"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["ru.prototype.dbd.DbdMod"] },
+  "depends": { "fabricloader": ">=0.14.21", "minecraft": "~1.20.1", "java": ">=17", "fabric-api": "*" }
+}
