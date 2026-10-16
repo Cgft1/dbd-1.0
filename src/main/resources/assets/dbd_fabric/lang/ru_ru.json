@@ -1,0 +1,10 @@
+{
+  "item.dbd_fabric.killer_blade": "Клинок маньяка",
+  "item.dbd_fabric.medkit": "Походная аптечка",
+  "block.dbd_fabric.generator": "Генератор испытания",
+  "block.dbd_fabric.sacrificial_hook": "Жертвенный крюк",
+  "message.dbd_fabric.generator_progress": "Прогресс генератора: %s%%",
+  "message.dbd_fabric.generator_complete": "Генератор починен! (%s/5)",
+  "message.dbd_fabric.match_started": "Испытание началось! Почините 5 генераторов и сбегите.",
+  "message.dbd_fabric.match_ended": "Все генераторы починены! Найдите выход."
+}
